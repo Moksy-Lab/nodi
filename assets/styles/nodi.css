@@ -3,24 +3,33 @@
 .headerhdm8ad340b3 .logo{
     max-height: 35px
 }
+.headerhdm8ad340b3 .navbar-light .navbar-nav .nav-link {
+    color: #33363D
+}
 .navbar-light .navbar-nav .nav-link:hover {
     color: #11CBD7
 }
 .headerhdm8ad340b3 .btn-primary{
     background-color: #11CBD7;
     border: none;
-    color: black
+    color: #33363D
 }
-.headerhdm8ad340b3 .btn-primary:hover{
+.headerhdm8ad340b3 .btn-primary:hover,
+.headerhdm8ad340b3 .btn-primary:not(:disabled):not(.disabled):active
+{
     background-color: #11CBD7;
     border: none;
-    color: black
+    color: #33363D
 }
 /* #howard(headerhdm8ad340b3) #css ends  */
 /*****howard*****/
 
 /*****agni*****/
 /* #agni(cded716dce36a6e8) #css starts  */
+.aboutcded716dce36a6e8 .DescriptionPara {
+    color: #808080;
+    font-size: 20px
+}
 .aboutcded716dce36a6e8 .badge{
     padding: 2.5rem 0
     }
@@ -30,7 +39,7 @@
 .aboutcded716dce36a6e8 .searchBtn{
     background-color: #11CBD7;
     border-radius: 4px;
-    color: black;
+    color: #33363D;
     font-weight: 600
 }
 /* #agni(cded716dce36a6e8) #css ends  */
@@ -42,13 +51,13 @@
     padding: 2.5rem 0
 }
 .aboutd390a380620aac0e .video_card::before {
-    background-color: #11CBD7
+    background-color: #808080
 }
 .aboutd390a380620aac0e .video_card>.btn {
     color: #11CBD7
 }
 .aboutd390a380620aac0e .video_card>.btn:active {
-    color: #11CBD7
+    color: #fff
 }
 /* #atami(d390a380620aac0e) #css ends  */
 /*****atami*****/
@@ -56,14 +65,17 @@
 /*****felicity*****/
 /* #felicity(felicityfr3poxt3ngm) #css starts */
 .felicityfr3poxt3ngm{
-    padding: 6.5rem 0
+    padding: 4.5rem 0
   }
   .felicityfr3poxt3ngm h3{
     font-size: 16px;
     margin-top: 15px
   }
+  .felicityfr3poxt3ngm strong {
+    font-weight: revert
+}
 .felicityfr3poxt3ngm .btn-primary {
-    color: black;
+    color: #33363D;
     background-color: #11CBD7;
     border-color: #11CBD7;
     border-radius: 4px;
@@ -72,7 +84,7 @@
 .felicityfr3poxt3ngm .btn-primary:hover,
 .felicityfr3poxt3ngm .btn-primary:not(:disabled):not(.disabled):active,
 .felicityfr3poxt3ngm .btn-primary:focus {
-    color: black;
+    color: #33363D;
     background-color: #11CBD7;
     border-color: #11CBD7
 }
@@ -88,20 +100,19 @@
         font-size: 20px
     }
     .cuarMp1u6yraxTi11Q .btn-primary {
-        color: black;
+        color: #33363D;
         background-color: #11CBD7;
         border-color: #11CBD7;
-        border-radius: 4px;
         font-weight: 600
     }
 .cuarMp1u6yraxTi11Q .btn-primary:hover,
 .cuarMp1u6yraxTi11Q .btn-primary:not(:disabled):not(.disabled):active,
 .cuarMp1u6yraxTi11Q .btn-primary:focus {
-    color: black;
-    background-color: #11CBD7;
-    border-color: #11CBD7
+        color: #33363D;
+        background-color: #11CBD7;
+        border-color: #11CBD7
 }
-    /* #cua(cuarMp1u6yraxTi11Q) #css ends  */
+/* #cua(cuarMp1u6yraxTi11Q) #css starts */
 /*****cua*****/
 
 /*****faye*****/
@@ -153,7 +164,7 @@ border-color: #11CBD7
 
 /*****fanta*****/
 /* #fanta(f439c65adee997571) #css starts */
-.f439c65adee997571{
+.footerf439c65adee997571 .footer-wrap {
     overflow: hidden
 }
 .footerf439c65adee997571 .footer-wrap p {
