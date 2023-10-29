@@ -117,11 +117,24 @@
 
 /*****faye*****/
 /* #faye(fayete8bna5e4lc) #css starts */
+.fayete8bna5e4lc .fdb-block {
+    padding: 4.5rem 0
+}
+.fayete8bna5e4lc .fdb-block .fdb-box {
+    padding: 1.75rem 2.5rem
+}
+.fayete8bna5e4lc .fdb-block .fdb-box:hover {
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px
+}
+.fayete8bna5e4lc h2{
+    font-size: 20px;
+    font-weight: 600
+}
      .fayete8bna5e4lc .fdb-block .fdb-touch {
-      border-top: solid 0.3125rem #11CBD7
+      border-top: solid 0.3125rem #fff
      }
      .fayete8bna5e4lc a {
-        color: black;
+        color: #33363D;
         font-weight: 600
     }
     .fayete8bna5e4lc a:hover {
@@ -136,12 +149,18 @@
 .teamtmp7126e7kx h1{
     font-size: 32px
 }
+.teamtmp7126e7kx .fdb-block {
+    padding: 2.5rem 0
+}
 /* #tanesha(teamtmp7126e7kx) #css starts */
 /*****tanesha*****/
 
 
 /*****fedrick*****/
 /* #fedrick(formft4wqz7r3sf) #css starts */  
+.formft4wqz7r3sf .fdb-block {
+    padding: 4.5rem 0
+}
 .formft4wqz7r3sf .lead {
     font-size: 20px
 }
@@ -168,16 +187,16 @@ border-color: #11CBD7
     overflow: hidden
 }
 .footerf439c65adee997571 .footer-wrap p {
-    font-size: 16px
+    font-size: 18px
 }
 .footerf439c65adee997571 .footer-wrap h3 {
-    font-size: 16px
+    font-size: 18px
 }
 .footerf439c65adee997571 .footer-links li a {
-    font-size: 14px
+    font-size: 16px
 }
 .footerf439c65adee997571 .footer-category li a {
-    font-size: 14px
+    font-size: 16px
 }
 /* #fanta(f439c65adee997571) #css ends */
 /*****fanta*****/
