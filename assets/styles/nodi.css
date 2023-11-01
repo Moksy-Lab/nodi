@@ -115,6 +115,29 @@
 /* #cua(cuarMp1u6yraxTi11Q) #css starts */
 /*****cua*****/
 
+/*****coe*****/
+/* #coe(calltoactionca00jikay2r) #css starts */
+.calltoactionca00jikay2r h1{
+    font-size: 32px
+}
+.calltoactionca00jikay2r .btn-primary {
+    color: #33363D;
+    background-color: #11CBD7;
+    border-color: #11CBD7;
+    font-weight: 600
+}
+.calltoactionca00jikay2r .lead {
+    font-size: 20px
+}
+.calltoactionca00jikay2r .btn-primary:hover,
+.calltoactionca00jikay2r .btn-primary:not(:disabled):not(.disabled):active{
+    color: #33363D;
+    background-color: #11CBD7;
+    border-color: #11CBD7
+}
+/* #coe(calltoactionca00jikay2r) #css starts */
+/*****coe*****/
+
 /*****faye*****/
 /* #faye(fayete8bna5e4lc) #css starts */
 .fayete8bna5e4lc .fdb-block {
