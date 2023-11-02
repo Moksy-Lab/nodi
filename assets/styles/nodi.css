@@ -206,6 +206,12 @@ border-color: #11CBD7
 
 /*****fanta*****/
 /* #fanta(f439c65adee997571) #css starts */
+.footerf439c65adee997571 img {
+    max-height: 35px
+}
+.footerf439c65adee997571 .footer-wrap {
+    overflow: hidden
+}
 .footerf439c65adee997571 .footer-wrap {
     overflow: hidden
 }
